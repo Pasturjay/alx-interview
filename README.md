@@ -1,5 +1,1 @@
-# ALX FRONTEND JAVASCRIPT
-
-## Newton Ombese
-
-- Working hard to better myself
+# Solutions to various interview type questions
